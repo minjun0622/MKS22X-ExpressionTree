@@ -6,6 +6,7 @@ public class ExpressionTree{
   /*return the expression as an infix notation string with parenthesis*/
   /* The sample tree would be: "(3 + (2 * 10))"     */
   public String toString(){
+    //hey i would paste in the methods but my dumb brain left the hw at home.
     /*you are to write this method*/
     return "";
   }
